@@ -27,6 +27,7 @@ to evaluate revenue performance, customer traffic, and product demand patterns.
 - 🏆 Barista Espresso and Brewed Chai Tea driving the menu
 
 ## Files
+- COFFEE_SHOP_SALES_ORIGINAL_CSV_FILE.csv — Original raw dataset
 - COFFEE_SQL.sql — All SQL queries
 - COFFE_SALES_ANALYSIS_DASBOARD_EXCEL.png — Excel dashboard
 - COFFE_SALES_ANALYSIS_DASHBOARD_POWERBI.png — Power BI dashboard
